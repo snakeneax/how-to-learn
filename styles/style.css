@@ -52,7 +52,7 @@
 .header__title_font_size {
   font-size: 102px;
   line-height: 96px;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .header__subtitle {
@@ -146,7 +146,7 @@ margin: 30px 0;
 }
 
 .two_columns_span-accent {
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .digits {
@@ -160,7 +160,7 @@ margin: 30px 0;
   width: 60%;
   line-height: 1.15;
   font-size: 60px;
-  font-weight: bold;
+  font-weight: 600;
   margin: 0 auto ;
   text-align: center;
 }
@@ -191,7 +191,7 @@ margin: 30px 0;
 .table__heading {
   line-height: 1.15;
   font-size: 24px;
-  font-weight: bold;
+  font-weight: 600;
   margin: 0 0;
 }
 
@@ -215,7 +215,7 @@ margin: 30px 0;
   width: 648px;
   line-height: 1.15;
   font-size: 120px;
-  font-weight: bold;
+  font-weight: 600;
   margin: 100px auto 70px;
   z-index: 2;
   justify-content: center;
@@ -327,7 +327,7 @@ margin: 30px 0;
 .footer__column-heading {
   line-height: 30px;
   font-size: 18px;
-  font-weight: bold;
+  font-weight: 600;
   margin: 0px;
 }
 .footer_column_links {
