@@ -28,7 +28,7 @@
   width: 183px;
 
 }
-.logo__place_header {
+.logo_place_header {
   position: absolute;
   top: 30px;
   left: 64px;
@@ -98,6 +98,7 @@
   font-size: 18px;
   margin: 0;
   color:#2f80ed;
+  font-weight: normal;
 
 }
 
@@ -267,7 +268,7 @@
   color: white;
 }
 
-.table_cell_theme_dark {
+.table__cell_theme_dark {
   margin-top: 80px;
   width: 200px;
 }
@@ -295,7 +296,7 @@
   flex-direction: column;
 }
 
-.logo__place_footer {
+.logo_place_footer {
   width: 183px;
   height: 35px;
 }
