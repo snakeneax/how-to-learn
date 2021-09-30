@@ -1,0 +1,8 @@
+.footer__columns {
+    margin: 0;
+    width: 90%;
+    padding: 60px 0 40px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+  }
